@@ -69,11 +69,14 @@ El equipo Alas Latinas 3.0 reafirma su compromiso con la calidad, la responsabil
 Este documento simboliza la intención conjunta de trabajar de manera organizada, transparente y orientada al cumplimiento de los objetivos del proyecto.
 
 ---
+---
+## **FIRMA DIGITAL**
 
-### Firmado simbólicamente por:
-- Álvaro  
-- Yael  
-- Antonia  
-- Kevin  
+**Nombre:** Antonia Martinez  
+**Fecha:** $(date +%Y-%m-%d)  
+**Email:** antonia_martinez_20@hotmail.com  
+**Key GPG:** E776828594CD533
 
-**Fecha de aprobación: ___/___/2025**
+*Este documento ha sido firmado digitalmente mediante commit verificado con GPG en GitHub.*
+
+
