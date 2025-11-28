@@ -70,13 +70,44 @@ Este documento simboliza la intención conjunta de trabajar de manera organizada
 
 ---
 ---
-## **FIRMA DIGITAL**
+## **FIRMAS DIGITALES VERIFICADAS**
 
-**Nombre:** Antonia Martinez  
-**Fecha:** $(date +%Y-%m-%d)  
-**Email:** antonia_martinez_20@hotmail.com  
-**Key GPG:** E776828594CD533
+### **Antonia Martinez**
+- **Email:** antonia_martinez_20@hotmail.com
+- **Key GPG:** E776828594CD533
+- **GitHub:** 2003lulu
+- **Rol:** Miembro del equipo
+- **Commit:** [POR DEFINIR]
+- **Verificación:** ✅
 
+### **Froylan Pacheco (Álvaro)**
+- **Email:** inmortalpach@gmail.com
+- **Key GPG:** 70807D95CE9160BC
+- **GitHub:** Alvaro2-0
+- **Rol:** Miembro del equipo
+- **Commit:** [POR DEFINIR]
+- **Verificación:** ✅
+
+### **Yael de Jesús Santiago Ortiz**
+- **Email:** yaelsantiago1182@gmail.com
+- **Key GPG:** 864B5BF8E59639DE
+- **GitHub:** YaelStO
+- **Rol:** Miembro del equipo
+- **Commit:** [POR DEFINIR]
+- **Verificación:** ✅
+
+### **Kevin (Kevinaleatorio)**
+- **Email:** 90224522+Kevinaleatorio@users.noreply.github.com
+- **Key GPG:** 5179F17FFF307763
+- **GitHub:** Kevinaleatorio
+- **Rol:** Miembro del equipo
+- **Commit:** [POR DEFINIR]
+- **Verificación:** ✅
+
+---
+
+**Fecha de firma colectiva:** 26 de noviembre de 2025  
+**Repositorio:** https://github.com/SistemasTecTlaxiaco/justificacion-del-proyecto-eqipo-aayk  
 *Este documento ha sido firmado digitalmente mediante commit verificado con GPG en GitHub.*
 
 
